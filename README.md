@@ -1,3 +1,3 @@
 # ASD
 Algorithms and Data Sctructure programmes
-These programmes use effective and efficient algorithms and advanced data structures to solve the problems.
+These programmes use efficient algorithms (e.g. Dynamic Programming, DFS/BFS, Dijkstra's algorithm) and advanced data structures (Heap, Interval Tree, Treap) to solve the problems.
