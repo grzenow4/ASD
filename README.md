@@ -1,3 +1,3 @@
 # ASD
 Algorithms and Data Sctructure programmes
-Tutaj zamieszczone są programy wykorzystujące efektywne, wydajne i szybkie algorytmy oraz zaawansowane struktury danych do rozwiązywania problemów.
+These programmes uses effective and efficient algorithms and advanced data structures to solve the problems.
